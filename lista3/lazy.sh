@@ -1,5 +1,5 @@
 #!/bin/bash
-g++ 1761.cpp -o a
+g++ 1216.cpp -o a
 sleep 0.5
 cd tests
 echo 'teste 1'

@@ -1,2 +1,2 @@
-rustc 1029.rs
-./1029 < input.txt
+rustc 2238.rs
+./2238 < input.txt

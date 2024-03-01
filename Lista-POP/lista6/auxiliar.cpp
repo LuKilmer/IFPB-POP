@@ -36,7 +36,7 @@ int fastPow(int base, int num)
 int main()
 {
 
-    for(int i = 1; i < 31; i++){
+    for(int i = 24; i < 31; i++){
         int num = fastPow(2,i)-1;
         cout << convertToTimeFormat(num)<<" - "<< num+1<< " - "<< i << endl;
     }
